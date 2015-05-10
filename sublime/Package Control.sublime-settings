@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Crypto",
+		"DocBlockr",
+		"DoxyDoc",
+		"FireCode Color Scheme",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Numix Theme",
+		"OmniMarkupPreviewer",
+		"OmniSharp",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Brogrammer",
+		"Theme - Numix",
+		"Vala"
+	]
+}

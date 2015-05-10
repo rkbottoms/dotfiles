@@ -1,0 +1,2 @@
+source ~/.git-prompt.sh
+PS1='${debian_chroot:+($debian_chroot)}\[\e[1;36m\]\u@\h\[\033[00m\]:\w\[\033[00m\]$(__git_ps1 "\[\e[1;31m\][%s]")\$\[\033[00m\] '
