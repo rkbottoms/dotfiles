@@ -4,3 +4,4 @@ alias l='ls -CF'
 alias ..='cd ..'         # Go up one directory
 alias ...='cd ../..'     # Go up two directories
 alias ....='cd ../../..' # Go up three directories
+alias subl='"/mnt/c/Program Files/Sublime Text 3/subl.exe"' #open sublime in windows from wsl bash
