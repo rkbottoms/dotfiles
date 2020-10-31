@@ -6,4 +6,4 @@ cp .bashrc ~/.bashrc
 cp .gitconfig ~/.gitconfig
 cp .git-prompt.sh ~/.git-prompt.sh
 cp .general.aliases ~/general.aliases
-cp .fonts ~/.fonts
+cp -ar .fonts ~/.fonts
